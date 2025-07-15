@@ -1,2 +1,3 @@
 R RESOLUTION
 - Konsisten Belajar Web Developer
+- Membuat Project Minimal 1 Per-Minggu
