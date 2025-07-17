@@ -1,6 +1,9 @@
 R RESOLUTION
 - Konsisten Belajar Web Developer
   * Belajar Web 5 jam perhari
+  * Belajar Bahasa Javascript
+  * Belajar HTML
+  * Belajar CSS
 - Membuat Project Minimal 1 Per-Minggu
   * dan ditaruh di github
 - Belajar Bahasa Inggris
