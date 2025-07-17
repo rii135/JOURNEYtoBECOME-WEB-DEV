@@ -1,8 +1,10 @@
 R RESOLUTION
 - Konsisten Belajar Web Developer
   * Belajar Web 5 jam perhari
+  * Belajar React
+  * Belajar Lavravel
 - Membuat Project Minimal 1 Per-Minggu
   * dan ditaruh di github
 - Belajar Bahasa Inggris
   * Grammer
-  * hafal 10 kalimat perhari
+  * hafal 12 kalimat perhari
