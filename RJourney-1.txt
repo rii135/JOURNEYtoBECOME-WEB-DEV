@@ -4,6 +4,7 @@ R RESOLUTION
   * Belajar Bahasa Javascript
   * Belajar HTML
   * Belajar CSS
+  * Belajar C++
 - Membuat Project Minimal 1 Per-Minggu
   * dan ditaruh di github
 - Belajar Bahasa Inggris
