@@ -1,3 +1,5 @@
 R RESOLUTION
 - Konsisten Belajar Web Developer
+  * Belajar Web 5 jam perhari
 - Membuat Project Minimal 1 Per-Minggu
+  * daqn ditaruh di github
